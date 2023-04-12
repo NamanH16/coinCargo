@@ -10,13 +10,7 @@ CryptoFolio WebApp built with React is a crypto currency tracking and portfolio 
   - Important links like Main website, source code, discords and blog site is provided for each Crypto Currencies
   - Dark mode
   - Trending Coins Section
-
-## Preview
-
-
-![cryptofolio_gif](https://user-images.githubusercontent.com/79929708/174285633-0b057aba-ed19-43da-8dd6-1a91c57e42bb.gif)
-
-
+  
 ## Tech Stack
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="ftailwind" />   
