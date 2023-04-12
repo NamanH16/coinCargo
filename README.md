@@ -15,30 +15,6 @@ CryptoFolio WebApp built with React is a crypto currency tracking and portfolio 
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="ftailwind" />   
 
-## Credit
- - <a href="https://www.npmjs.com/package/react-chartjs-2" >Chart js</a>
- - <a href="https://www.npmjs.com/package/react-loading-skeleton" >React Loading Skleleton</a>
- - <a href="https://www.npmjs.com/package/react-alice-carousel" >React Alice Carouse</a>
- - <a href="https://v4.mui.com/" >Material ui</a>
- - <a href="https://www.coingecko.com/en/api/documentation" >CryptoGecko Api</a>
-
-## To Do
-
-<ul>
-  <li>[ ] login/signup authentication</li>
-  <li>[ ] Watchlist</li>
-</ul>
-
-
-### Installation
-
-```
-git clone https://github.com/manavsiddharthgupta/CryptoFolio.git
-
-npm install
-
-npm start
-```
 
 ### `npm start`
 
